@@ -2,7 +2,7 @@
 
 <img src="learning_git_cover.jpg" width=450>
 
-This GitHub repository is meant to be used as a supplementary resource for Learning Git: A Hands-on Approach to Understanding the Basics of Git by Anna Skoulikari.
+This GitHub repository is meant to be used as a supplementary resource for Learning Git: A Hands-On and Visual Approach to Understanding the Basics of Git by Anna Skoulikari (published by O'Reilly).
 
 ## Table of Contents:
 
