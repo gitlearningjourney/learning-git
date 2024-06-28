@@ -237,7 +237,7 @@ GitHub
 
 GitLab
 
-- [GitLab Docs - Create a blank project](https://docs.github.com/en/get-started/quickstart/create-a-repo)
+- [GitLab Docs - Create a blank project](https://docs.gitlab.com/ee/user/project/#create-a-blank-project)
 
 Additional notes: In GitLab a repository is referred to as a "project".
 
